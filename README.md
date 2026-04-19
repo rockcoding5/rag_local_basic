@@ -21,8 +21,8 @@ A simple, fully local RAG pipeline built using:
 
 ---
 
-# 🧩 Architecture Diagram
-![Architecture Diagram](docs/local_rag_diagram.png)
+# 🧩 Flow Diagram
+![Flow Diagram](docs/local_rag_diagram.png)
 
 ---
 
