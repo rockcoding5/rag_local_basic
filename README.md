@@ -22,7 +22,7 @@ A simple, fully local RAG pipeline built using:
 ---
 
 # 🧩 Flow Diagram
-![Flow Diagram](docs/local_rag_diagram.png)
+![Flow Diagram](docs/rag_clean_sample.png)
 
 ---
 
