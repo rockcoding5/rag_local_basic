@@ -24,7 +24,7 @@ def log_time(step_name, start_time):
 # =========================
 start = time.time()
 
-loader = PyPDFLoader("FAQ_GEN_AI_APAC_EDITION.pdf")
+loader = PyPDFLoader("docs/rag_clean_sample.pdf")
 docs = loader.load()
 
 # Clean PDF formatting
